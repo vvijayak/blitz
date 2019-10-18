@@ -1,0 +1,104 @@
+{
+  "49ers" :{
+    "depth_chart":{
+      "defense": "https://www.49ers.com/team/depth-chart#scroll-defense",
+      "offense": "https://www.49ers.com/team/depth-chart#scroll-offense",
+      "special": "https://www.49ers.com/team/depth-chart#scroll-specialteams"
+    },
+    "injury_report": "https://www.49ers.com/team/injury-report/",
+    "zip_code": 95054
+  },
+  "Bears" :{
+
+  },
+  "Bengals" :{
+
+  },
+  "Bills" :{
+
+  },
+  "Broncos" :{
+
+  },
+  "Browns" :{
+
+  },
+  "Buccaneers" :{
+
+  },
+  "Cardinals" :{
+
+  },
+  "Chargers" :{
+
+  },
+  "Chiefs" :{
+
+  },
+  "Colts" :{
+
+  },
+  "Cowboys" :{
+
+  },
+  "Dolphins" :{
+
+  },
+  "Eagles": {
+
+  },
+  "Falcons" :{
+
+  },
+  "Giants" :{
+
+  },
+  "Jaguars" :{
+
+  },
+  "Jets": {
+
+  },
+  "Lions" :{
+
+  },
+  "Packers":{
+
+  },
+  "Panthers" :{
+
+  },
+  "Patriots" :{
+
+  },
+  "Raiders": {
+
+  },
+  "Rams": {
+
+  },
+  "Ravens" :{
+
+  },
+  "Redskins" :{
+
+  },
+  "Saints" :{
+
+  },
+  "Seahawks" :{
+
+  },
+  "Steelers" :{
+
+  },
+  "Texans" :{
+
+  },
+  "Titans" :{
+
+  },
+  "Vikings": {
+
+  }
+}
