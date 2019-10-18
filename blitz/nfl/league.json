@@ -1,0 +1,16 @@
+{
+  "DVOA" : {
+    "defense": "https://www.footballoutsiders.com/stats/teamdef/2019",
+    "dl": "https://www.footballoutsiders.com/stats/dl/2019",
+    "offense": "https://www.footballoutsiders.com/stats/teamoff/2019",
+    "ol": "https://www.footballoutsiders.com/stats/ol/2019",
+    "overall": "https://www.footballoutsiders.com/stats/teameff/2019",
+    "qb": "https://www.footballoutsiders.com/stats/qb/2019",
+    "rb": "https://www.footballoutsiders.com/stats/rb/2019",
+    "special": "https://www.footballoutsiders.com/stats/teamst/2019",
+    "te": "https://www.footballoutsiders.com/stats/te/2019",
+    "wr": "https://www.footballoutsiders.com/stats/wr/2019"
+
+  },
+  "news" : "http://www.nfl.com/news"
+}
