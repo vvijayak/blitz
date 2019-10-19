@@ -3,11 +3,14 @@
     {
       "whitelist": [
         "sf",
+        "fourty-niners",
         "fourty niners",
         "san fran",
         "frisco",
         "49ers",
-        "san francisco"
+        "san francisco",
+        "9ers",
+        "niners"
       ],
       "cname": "49ers"
     },

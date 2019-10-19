@@ -1,3 +1,6 @@
 .idea
-.pyc
+*.pyc
 log
+home_assistant
+food_ordering
+blitz/.generated/*

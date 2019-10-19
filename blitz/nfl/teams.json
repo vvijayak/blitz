@@ -1,106 +1,227 @@
 {
   "49ers" :{
-    "depth_chart":{
-      "defense": "https://www.49ers.com/team/depth-chart#scroll-defense",
-      "offense": "https://www.49ers.com/team/depth-chart#scroll-offense",
-      "special": "https://www.49ers.com/team/depth-chart#scroll-specialteams"
-    },
-    "injury_report": "https://www.49ers.com/team/injury-report/",
-    "news": "https://www.49ers.com/news/",
-    "transactions": "https://www.49ers.com/team/transactions/",
-    "zip_code": 95054
+    "domain": "https://www.49ers.com",
+    "stadium":{
+      "dome": 0,
+      "name": "Levi Stadium",
+      "zip_code": 95054
+    }
   },
   "Bears" :{
-
+    "domain": "https://www.chicagobears.com",
+    "stadium":{
+      "name": "Soldier Field",
+      "zip_code": 60605
+    }
   },
   "Bengals" :{
-
+    "domain": "https://www.bengals.com",
+    "stadium":{
+      "name": "Paul Brown Stadium",
+      "zip_code": 45202
+    }
   },
   "Bills" :{
-
+    "domain": "https://www.buffalobills.com",
+    "stadium":{
+      "name": "New Era Field",
+      "zip_code": 14127
+    }
   },
   "Broncos" :{
-
+    "domain": "https://www.denverbroncos.com",
+    "stadium":{
+      "name": "Empower Field",
+      "zip_code": 80204
+    }
   },
   "Browns" :{
-
+    "domain": "https://www.clevelandbrowns.com",
+    "stadium":{
+      "name": "FirstEnergy Stadium",
+      "zip_code": 44114
+    }
   },
   "Buccaneers" :{
-
+    "domain": "https://www.buccaneers.com",
+    "stadium":{
+      "name": "Raymond James Stadium",
+      "zip_code": 33607
+    }
   },
   "Cardinals" :{
-
+    "domain": "https://www.azcardinals.com",
+    "stadium":{
+      "name": "University of Phoenix Stadium",
+      "zip_code": 85305
+    }
   },
   "Chargers" :{
-
+    "domain": "https://www.chargers.com",
+    "stadium":{
+      "name": "Dignity Health Sports Park",
+      "zip_code": 90746
+    }
   },
   "Chiefs" :{
-
+    "domain": "https://www.chiefs.com",
+    "stadium":{
+      "name": "Arrowhead Stadium",
+      "zip_code": 64129
+    }
   },
   "Colts" :{
-
+    "domain": "https://www.colts.com",
+    "stadium":{
+      "name": "Lucas Oil Stadium",
+      "zip_code": 46225
+    }
   },
   "Cowboys" :{
-
+    "domain": "https://www.dallascowboys.com",
+    "stadium":{
+      "name": "AT&T Stadium",
+      "zip_code": 76011
+    }
   },
   "Dolphins" :{
-
+    "domain": "https://www.miamidolphins.com",
+    "stadium":{
+      "name": "Hard Rock Stadium",
+      "zip_code": 33056
+    }
   },
   "Eagles": {
-
+    "domain": "https://www.philadelphiaeagles.com",
+    "stadium":{
+      "name": "Lincoln Financial Field",
+      "zip_code": 19148
+    }
   },
   "Falcons" :{
-
+    "domain": "https://www.atlantafalcons.com",
+    "stadium":{
+      "name": "Mercedes-Benz Stadium",
+      "zip_code": 30313
+    }
   },
   "Giants" :{
-
+    "domain": "https://www.giants.com",
+    "stadium":{
+      "name": "Metlife Stadium",
+      "zip_code": 07073
+    }
   },
   "Jaguars" :{
-
+    "domain": "https://www.jaguars.com",
+    "stadium":{
+      "name": "TIAA Bank Field",
+      "zip_code": 32202
+    }
   },
   "Jets": {
-
+    "domain": "https://www.newyorkjets.com",
+    "stadium":{
+      "name": "MetLife Stadium",
+      "zip_code": "07073"
+    }
   },
   "Lions" :{
-
+    "domain": "https://www.detroitlions.com",
+    "stadium":{
+      "name": "Ford Field",
+      "zip_code": 48226
+    }
   },
   "Packers":{
-
+    "domain": "https://www.packers.com",
+    "stadium":{
+      "name": "Lambeau Field",
+      "zip_code": 54304
+    }
   },
   "Panthers" :{
-
+    "domain": "https://www.panthers.com",
+    "stadium":{
+      "name": "Bank of America Stadium",
+      "zip_code": 28202
+    }
   },
   "Patriots" :{
-
+    "domain": "https://www.patriots.com",
+    "stadium":{
+      "name": "Gillette Stadium",
+      "zip_code": "02035"
+    }
   },
   "Raiders": {
-
+    "domain": "https://www.raiders.com",
+    "stadium":{
+      "name": "The Coliseum",
+      "zip_code": 94621
+    }
   },
   "Rams": {
-
+    "domain": "https://www.therams.com",
+    "stadium":{
+      "name": "The Coliseum",
+      "zip_code": 90037
+    }
   },
   "Ravens" :{
-
+    "domain": "https://www.baltimoreravens.com",
+    "stadium":{
+      "name": "M&T Bank Stadium",
+      "zip_code": 21230
+    }
   },
   "Redskins" :{
-
+    "domain": "https://www.redskins.com",
+    "stadium":{
+      "name": "FedEx Field",
+      "zip_code": 20785
+    }
   },
   "Saints" :{
-
+    "domain": "https://www.neworleanssaints.com",
+    "stadium":{
+      "name": "The Superdome",
+      "zip_code": 95054
+    }
   },
   "Seahawks" :{
-
+    "domain": "https://www.seahawks.com",
+    "stadium":{
+      "name": "CenturyLink Field",
+      "zip_code": 98134
+    }
   },
   "Steelers" :{
-
+    "domain": "https://www.steelers.com",
+    "stadium":{
+      "name": "Heinz Field",
+      "zip_code": 15212
+    }
   },
   "Texans" :{
-
+    "domain": "https://www.houstontexans.com",
+    "stadium":{
+      "name": "NRG Stadium",
+      "zip_code": 77054
+    }
   },
   "Titans" :{
-
+    "domain": "https://www.titansonline.com",
+    "stadium":{
+      "name": "Nissan Stadium",
+      "zip_code": 37213
+    }
   },
   "Vikings": {
-
+    "domain": "https://www.vikings.com",
+    "stadium":{
+      "name": "U.S. Bank Stadium",
+      "zip_code": 55415
+    }
   }
 }
