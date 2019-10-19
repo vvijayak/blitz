@@ -1,0 +1,50 @@
+{
+  "entities": [
+    {
+      "whitelist": [
+        "sf",
+        "fourty niners",
+        "san fran",
+        "frisco",
+        "49ers",
+        "san francisco"
+      ],
+      "cname": "49ers"
+    },
+        {
+      "whitelist": [
+        "chi town",
+        "chicago"
+      ],
+      "cname": "Bears"
+    },
+        {
+      "whitelist": [
+        "cincinnati",
+        "bengals"
+      ],
+      "cname": "Bengals"
+    },
+        {
+      "whitelist": [
+        "buffalo",
+        "bills"
+      ],
+      "cname": "Bills"
+    },
+        {
+      "whitelist": [
+        "denver",
+        "broncos"
+      ],
+      "cname": "Broncos"
+    },
+        {
+      "whitelist": [
+        "clevland",
+        "browns"
+      ],
+      "cname": "Browns"
+    }
+  ]
+}
