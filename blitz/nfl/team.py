@@ -1,4 +1,4 @@
-from blitz.root import get_logger, PATH
+from blitz.root import get_logger, NFL_DATA_PATH
 import json
 
 
@@ -14,7 +14,7 @@ class Team:
 
     def __init__(self, team_name="Seahawks"):
 
-        self.JSON_FILE = f'{PATH}/nfl/teams.json'
+        self.JSON_FILE = f'{NFL_DATA_PATH}/teams.json'
         self.team_name = team_name
 
         try:
@@ -37,11 +37,6 @@ class Team:
             pass
 
     @property
-    def current_temperature(self):
-        weather = self.current_weather
-        return int(weather['main']['temp'])
-
-    @property
     def current_weather(self):
 
         params = {'zip': f'{self.stadium_zip_code},us', 'appid': API_KEY, 'units': 'imperial'}
@@ -53,4 +48,6 @@ class Team:
         except Exception as e:
             logger.error(e)
             return None
-        return response.json()
+        weather = response.json()
+        return int(weather['main']['temp']), weather['name']
+

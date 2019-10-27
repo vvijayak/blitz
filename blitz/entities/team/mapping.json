@@ -10,44 +10,295 @@
         "49ers",
         "san francisco",
         "9ers",
-        "niners"
+        "niners",
+        "santa clara",
+        "silicon valley"
       ],
       "cname": "49ers"
     },
         {
       "whitelist": [
         "chi town",
-        "chicago"
+        "chicago",
+        "bears",
+        "soldier fields"
       ],
       "cname": "Bears"
     },
         {
       "whitelist": [
         "cincinnati",
-        "bengals"
+        "bengals",
+        "cinci",
+        "paul brown",
+        "paul brown stadium"
       ],
       "cname": "Bengals"
     },
         {
       "whitelist": [
         "buffalo",
-        "bills"
+        "bills",
+        "new era",
+        "new era field"
       ],
       "cname": "Bills"
     },
         {
       "whitelist": [
         "denver",
-        "broncos"
+        "broncos",
+        "empower field",
+        "mile high city",
+        "mile high"
       ],
       "cname": "Broncos"
     },
-        {
+    {
       "whitelist": [
         "clevland",
-        "browns"
+        "browns",
+        "first energy",
+        "first energy stadium"
       ],
       "cname": "Browns"
+    },
+    {
+      "whitelist": [
+        "tampa",
+        "tampa bay",
+        "bucs",
+        "buccaneers",
+        "raymond james",
+        "raymond james stadium"
+      ],
+      "cname": "Buccaneers"
+    },
+    {
+      "whitelist": [
+        "cards",
+        "cardinals",
+        "arizona",
+        "phoenix",
+        "university of phoenix stadium",
+        "phoenix stadium"
+      ],
+      "cname": "Cardinals"
+    },
+    {
+      "whitelist": [
+        "san diego",
+        "chargers",
+        "dignity health sports park"
+      ],
+      "cname": "Chargers"
+    },
+    {
+      "whitelist": [
+        "kc",
+        "kansas",
+        "kansas city",
+        "chiefs",
+        "arrowhead",
+        "arrowhead stadium"
+      ],
+      "cname": "Chiefs"
+    },
+    {
+      "whitelist": [
+        "indy",
+        "indianapolis",
+        "colts",
+        "lucas oil",
+        "lucas oil stadium"
+      ],
+      "cname": "Colts"
+    },
+    {
+      "whitelist": [
+        "dalls",
+        "cowboys",
+        "at&t",
+        "at and t"
+      ],
+      "cname": "Cowboys"
+    },
+    {
+      "whitelist": [
+        "miami",
+        "dolphins",
+        "hard rock",
+        "hard rock stadium"
+      ],
+      "cname": "Dolphins"
+    },
+    {
+      "whitelist": [
+        "eagles",
+        "philly",
+        "philadelphia",
+        "lincoln field"
+      ],
+      "cname": "Eagles"
+    },
+    {
+      "whitelist": [
+        "atlanta",
+        "falcons",
+        "mercedes benz stadium"
+
+      ],
+      "cname": "Falcons"
+    },
+    {
+      "whitelist": [
+        "giants",
+        "new york giants"
+      ],
+      "cname": "Giants"
+    },
+    {
+      "whitelist": [
+        "jaguars",
+        "jags",
+        "jacksonville",
+        "tiaa bank field",
+        "tiaa bank"
+      ],
+      "cname": "Jaguars"
+    },
+    {
+      "whitelist": [
+        "jets",
+        "new york jets"
+      ],
+      "cname": "Jets"
+    },
+    {
+      "whitelist": [
+        "detriot",
+        "lions",
+        "ford field"
+      ],
+      "cname": "Lions"
+    },
+    {
+      "whitelist": [
+        "pacs",
+        "lambeau",
+        "lambeau field",
+        "green bay",
+        "packers"
+      ],
+      "cname": "Packers"
+    },
+    {
+      "whitelist": [
+        "panthers",
+        "carolina",
+        "bank of america stadium",
+        "b of a",
+        "bank of america"
+      ],
+      "cname": "Panthers"
+    },
+    {
+      "whitelist": [
+        "new england",
+        "pats",
+        "patriots",
+        "gillette",
+        "gillette stadium"
+      ],
+      "cname": "Patriots"
+    },
+    {
+      "whitelist": [
+        "raiders",
+        "coliseum",
+        "oakland"
+      ],
+      "cname": "Raiders"
+    },
+    {
+      "whitelist": [
+        "rams"
+      ],
+      "cname": "Rams"
+    },
+    {
+      "whitelist": [
+        "baltimore",
+        "ravens",
+        "m & t bank",
+        "m and t bank",
+        "m n t bank",
+        "m n t",
+        "m & t",
+        "m and t"
+      ],
+      "cname": "Ravens"
+    },
+    {
+      "whitelist": [
+        "washingtons",
+        "redskins",
+        "fedex",
+        "fedex field"
+      ],
+      "cname": "Redskins"
+    },
+    {
+      "whitelist": [
+        "superdome",
+        "mercedes benz superdome",
+        "saints",
+        "the superdome",
+        "mercedes benz",
+        "new orleans",
+        "nola"
+      ],
+      "cname": "Saints"
+    },
+    {
+      "whitelist": [
+        "century link",
+        "century link field",
+        "seahawks",
+        "hawks",
+        "seattle"
+      ],
+      "cname": "Seahawks"
+    },
+    {
+      "whitelist": [
+        "heinz field",
+        "heinz",
+        "pit",
+        "pitsburg",
+        "steelers"
+      ],
+      "cname": "Steelers"
+    },
+    {
+      "whitelist": [
+        "nissan",
+        "nissan stadium",
+        "titans",
+        "tennessee"
+      ],
+      "cname": "Titans"
+    },
+    {
+      "whitelist": [
+        "us bank",
+        "u.s. bank",
+        "u.s. bank stadium",
+        "us bank stadium",
+        "vikings",
+        "vikes"
+      ],
+      "cname": "Vikings"
     }
   ]
 }

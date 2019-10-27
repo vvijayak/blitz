@@ -11,11 +11,11 @@ logger = get_logger()
 
 @app.handle(domain='weather', intent='check_weather')
 def check_weather(request, responder):
+
+    team = Team()
     for e in request.entities:
         if e['type'] == 'team':
             team = Team(team_name=e['value'][0]['cname'])
-        else:
-            team = Team()
 
-    responder.reply(f' Right now by {team.stadium_name} it is {team.current_temperature} degrees.')
-
+    temperature, city_name = team.current_weather
+    responder.reply(f'Right now in {city_name} by {team.stadium_name} it is {temperature} degrees.')

@@ -20,5 +20,7 @@ def get_logger():
 
 app = Application(__name__)
 PATH = os.path.realpath(os.path.dirname(__file__))
+NFL_DATA_PATH = f'{PATH}/nfl/data'
+DEFAULT_TEAM = 'Seahawks'
 
 __all__ = ['app']
