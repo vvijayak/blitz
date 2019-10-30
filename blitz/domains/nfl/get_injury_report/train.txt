@@ -1,3 +1,100 @@
-lets play a game
-give me a trivia question
-launch trivia
+show me the injury report for {Saints|team}
+{New york giants|team} injuries
+show {49ers|team} injury report
+injuries on {Houston|team}
+show {Green bay|team} injuries
+what are the injuries on {New York Jets|team}
+injury report for {Cinci|team}
+show me the injury report for the {Atlanta Falcons|team}
+show injuries on the {San francisco 49ers|team}
+what players are hurt on {Detroit lions|team}
+injuries on {Detroit|team}
+show me the injury report for {Eagles|team}
+what are the injuries on {Los Angeles Rams|team}
+what are the injuries on the {Cowboys|team}
+show injuries for {Los angeles rams|team}
+injury report for the {New york giants|team}
+injuries on {Cleveland|team}
+what are the injuries on the {New orleans saints|team}
+injury report for {bears|team}
+the {Colts|team} injuries
+show injuries for {Nola|team}
+what players are hurt on the {Oakland raiders|team}
+what players are injured on {New york giants|team}
+injuries on {Cinci|team}
+{Cleveland|team} injuries
+show {Washington Redskins|team} injuries
+show the {Jacksonville Jaguars|team} injury report
+injuries on {Green Bay|team}
+get me the injury report for {Rams|team}
+injuries on {Miami|team}
+injury report for the {Pittsburgh steelers|team}
+injuries on the {Packs|team}
+what are the injuries on {New York Giants|team}
+show injuries for the {Phins|team}
+show me the injury report for {Atlanta|team}
+injury report for {Bears|team}
+injury report for {redskins|team}
+show me the injury report for the {Cardinals|team}
+injury report for {Detroit lions|team}
+get me the injury report for {Baltimore|team}
+show injuries on the {Niners|team}
+show {Carolina panthers|team} injury report
+get me the injury report for {New york jets|team}
+injuries on {chargers|team}
+injury report for {New York Jets|team}
+show me the injury report for {Indianapolis|team}
+show injury report for the {Minnesota vikings|team}
+what players are hurt on the {Lions|team}
+show injuries on {New Orleans Saints|team}
+what players are hurt on {New england|team}
+{Green bay|team} injuries
+injury report for {NOLA|team}
+what players are hurt on {Oakland|team}
+show injuries on {Jacksonville|team}
+what players are injured on the {Atlanta falcons|team}
+what players are hurt on {Denver|team}
+show injury report for {Philly|team}
+show injuries for the {falcons|team}
+injuries on {pats|team}
+show {Los angeles rams|team} injury report
+show {Baltimore ravens|team} injury report
+show {New york giants|team} injuries
+what players are injured on {Baltimore|team}
+{New York Giants|team} injuries
+injuries on {Minnesota|team}
+get me the injury report for {SF|team}
+{Indianapolis|team} injuries
+show injuries for the {Chicago Bears|team}
+get me the injury report for {Dallas|team}
+the {lions|team} injuries
+show injuries on {Atlanta|team}
+get me the injury report for {Carolina|team}
+what players are hurt on {Pittsburgh|team}
+what are the injuries on {Los angeles rams|team}
+the {Bengals|team} injuries
+what are the injuries on the {Seattle Seahawks|team}
+what are the injuries on {Green Bay|team}
+show {Philly|team} injury report
+show injury report for {Sf|team}
+what are the injuries on {Miami Dolphins|team}
+injury report for {Tampa|team}
+show {Green Bay|team} injuries
+show injury report for the {panthers|team}
+show me the injury report for {redskins|team}
+show injuries for {Chicago|team}
+show injuries on the {Arizona cardinals|team}
+show {steelers|team} injuries
+what players are hurt on {Baltimore ravens|team}
+show {vikings|team} injury report
+the {Packs|team} injury report
+show injuries for {Steelers|team}
+get me the injury report for {Denver|team}
+show injury report for {SF|team}
+show the {Dallas Cowboys|team} injuries
+show me the injury report for {chiefs|team}
+injury report for {Chicago|team}
+show the {Vikings|team} injuries
+{Green Bay|team} injuries
+get me the injury report for the {Browns|team}
+show injuries for {New York Jets|team}

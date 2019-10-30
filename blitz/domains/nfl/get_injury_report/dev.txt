@@ -1,0 +1,10 @@
+show injury report for {New England|team}
+show injuries for {Pittsburgh|team}
+what players are injured on {Niners|team}
+the {Seahawks|team} injuries
+show {Kansas City|team} injuries
+show {Tennessee|team} injuries
+show {Atlanta|team} injury report
+what players are injured on {Washington|team}
+injury report for {Jaguars|team}
+show {Baltimore|team} injury report

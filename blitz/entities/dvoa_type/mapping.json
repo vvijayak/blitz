@@ -1,0 +1,39 @@
+{
+  "entities": [
+    {
+      "whitelist": [
+        "offense",
+        "offensive"
+      ],
+      "cname": "Offensive"
+    },
+    {
+      "whitelist": [
+        "defense",
+        "defensive"
+      ],
+      "cname": "Defensive"
+    },
+    {
+      "whitelist": [
+        "overall",
+        "team",
+        "total",
+        "comprehensive"
+      ],
+      "cname": "Overall"
+    },
+    {
+      "whitelist": [
+        "kicking",
+        "punting",
+        "returning",
+        "st",
+        "special teams",
+        "field goal",
+        "extra point"
+      ],
+      "cname": "Special Teams"
+    }
+  ]
+}

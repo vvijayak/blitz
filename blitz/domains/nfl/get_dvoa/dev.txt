@@ -1,0 +1,10 @@
+show {special teams|dvoa_type} dvoa for the {dolphins|team}
+show me the {defense|dvoa_type} dvoa for {Atlanta Falcons|team}
+what is {vikings|team} {returning|dvoa_type} dvoa
+what is the {New york giants|team} {kicking|dvoa_type} dvoa
+get me the {total|dvoa_type} dvoa for {bears|team}
+show {total|dvoa_type} dvoa for {Packs|team}
+{Atlanta|team} {returning|dvoa_type} dvoa
+show {offense|dvoa_type} dvoa for {Seattle|team}
+show {team|dvoa_type} dvoa for the {Panthers|team}
+what is the {punting|dvoa_type} dvoa for {Chicago|team}

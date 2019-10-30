@@ -1,0 +1,100 @@
+what is the {team|dvoa_type} dvoa for {Kansas City|team}
+show {returning|dvoa_type} dvoa for {Washington|team}
+what is {New england|team} {overall|dvoa_type} dvoa
+the {Hawks|team} {special teams|dvoa_type} dvoa
+show me the {special teams|dvoa_type} dvoa for {San Francisco|team}
+get me the {offense|dvoa_type} dvoa for {Green bay|team}
+the {Indianapolis colts|team} {extra point|dvoa_type} dvoa
+get me the {punting|dvoa_type} dvoa for the {Pats|team}
+get me the {offense|dvoa_type} dvoa for {buccaneers|team}
+show {Green Bay Packers|team} {team|dvoa_type} dvoa
+show {overall|dvoa_type} dvoa for {Houston Texans|team}
+get me the {offensive|dvoa_type} dvoa for the {Dallas Cowboys|team}
+what is {Washington|team} {team|dvoa_type} dvoa
+what is {San francisco|team} {defensive|dvoa_type} dvoa
+show {total|dvoa_type} dvoa for the {phins|team}
+what is the {special teams|dvoa_type} dvoa for {Atlanta Falcons|team}
+{overall|dvoa_type} dvoa for {New england|team}
+show {Vikings|team} {returning|dvoa_type} dvoa
+show me the {returning|dvoa_type} dvoa for {Panthers|team}
+the {Oakland raiders|team} {team|dvoa_type} dvoa
+show {returning|dvoa_type} dvoa for {Indianapolis|team}
+show {offense|dvoa_type} dvoa for {Denver Broncos|team}
+{defensive|dvoa_type} dvoa for {Dallas|team}
+what is the {total|dvoa_type} dvoa for {New England|team}
+show me the {offensive|dvoa_type} dvoa for {Jacksonville|team}
+what is {Philadelphia Eagles|team} {defense|dvoa_type} dvoa
+get me the {extra point|dvoa_type} dvoa for {vikings|team}
+{offense|dvoa_type} dvoa for the {Miami dolphins|team}
+{offensive|dvoa_type} dvoa for {Pittsburgh|team}
+what is {Atlanta Falcons|team} {team|dvoa_type} dvoa
+{Packs|team} {kicking|dvoa_type} dvoa
+what is {Kansas City Chiefs|team} {offensive|dvoa_type} dvoa
+what is the {offense|dvoa_type} dvoa for {Oakland|team}
+what is {New York Jets|team} {defensive|dvoa_type} dvoa
+what is the {offensive|dvoa_type} dvoa for {NOLA|team}
+{defensive|dvoa_type} dvoa for {Washington|team}
+{Cleveland|team} {defensive|dvoa_type} dvoa
+show {total|dvoa_type} dvoa for {Green bay|team}
+{San francisco|team} {extra point|dvoa_type} dvoa
+{Indianapolis|team} {team|dvoa_type} dvoa
+get me the {overall|dvoa_type} dvoa for the {Steelers|team}
+show {overall|dvoa_type} dvoa for {Jaguars|team}
+show me the {team|dvoa_type} dvoa for {dolphins|team}
+get me the {defensive|dvoa_type} dvoa for {Tampa Bay Buccaneers|team}
+show {total|dvoa_type} dvoa for {Minnesota vikings|team}
+show {punting|dvoa_type} dvoa for {Dallas Cowboys|team}
+get me the {kicking|dvoa_type} dvoa for {New england|team}
+show me the {overall|dvoa_type} dvoa for {Tennessee|team}
+show {New york giants|team} {kicking|dvoa_type} dvoa
+show {defense|dvoa_type} dvoa for {chargers|team}
+show {Los angeles chargers|team} {overall|dvoa_type} dvoa
+show me the {extra point|dvoa_type} dvoa for {Los angeles chargers|team}
+show {field goal|dvoa_type} dvoa for {Colts|team}
+show the {Broncos|team} {defense|dvoa_type} dvoa
+what is the {returning|dvoa_type} dvoa for {Carolina|team}
+what is the {Green Bay Packers|team} {offense|dvoa_type} dvoa
+show me the {special teams|dvoa_type} dvoa for {Green Bay|team}
+show {extra point|dvoa_type} dvoa for the {New York Giants|team}
+what is the {returning|dvoa_type} dvoa for the {eagles|team}
+{falcons|team} {offensive|dvoa_type} dvoa
+show the {hawks|team} {total|dvoa_type} dvoa
+show {total|dvoa_type} dvoa for the {giants|team}
+get me the {defense|dvoa_type} dvoa for {Redskins|team}
+what is the {total|dvoa_type} dvoa for {Washington|team}
+show {returning|dvoa_type} dvoa for {Los angeles chargers|team}
+show {comprehensive|dvoa_type} dvoa for {Cincinnati|team}
+show me the {offense|dvoa_type} dvoa for {Chicago|team}
+{extra point|dvoa_type} dvoa for {Kansas City|team}
+what is the {punting|dvoa_type} dvoa for {Atlanta|team}
+{Jacksonville|team} {returning|dvoa_type} dvoa
+{Cleveland|team} {punting|dvoa_type} dvoa
+{Philadelphia|team} {field goal|dvoa_type} dvoa
+{browns|team} {offensive|dvoa_type} dvoa
+show me the {overall|dvoa_type} dvoa for the {Cowboys|team}
+show {special teams|dvoa_type} dvoa for {Broncos|team}
+get me the {kicking|dvoa_type} dvoa for {Los angeles rams|team}
+show {giants|team} {overall|dvoa_type} dvoa
+show {team|dvoa_type} dvoa for {Arizona|team}
+show {defense|dvoa_type} dvoa for {Philadelphia|team}
+what is the {kicking|dvoa_type} dvoa for the {Eagles|team}
+show {New york giants|team} {defensive|dvoa_type} dvoa
+what is the {offensive|dvoa_type} dvoa for the {Niners|team}
+show {Los Angeles Rams|team} {comprehensive|dvoa_type} dvoa
+get me the {kicking|dvoa_type} dvoa for {Jacksonville|team}
+show {punting|dvoa_type} dvoa for {Pittsburgh|team}
+show {team|dvoa_type} dvoa for {Houston|team}
+what is the {Cowboys|team} {total|dvoa_type} dvoa
+show me the {overall|dvoa_type} dvoa for the {cowboys|team}
+show {special teams|dvoa_type} dvoa for {Indy|team}
+get me the {defensive|dvoa_type} dvoa for the {Cards|team}
+show {special teams|dvoa_type} dvoa for {Pittsburgh steelers|team}
+show the {steelers|team} {total|dvoa_type} dvoa
+show the {Rams|team} {returning|dvoa_type} dvoa
+show {Washington|team} {overall|dvoa_type} dvoa
+show me the {punting|dvoa_type} dvoa for the {Seattle seahawks|team}
+what is the {team|dvoa_type} dvoa for {New orleans saints|team}
+show {offense|dvoa_type} dvoa for {Nola|team}
+show {offense|dvoa_type} dvoa for {Indianapolis|team}
+show the {Eagles|team} {offensive|dvoa_type} dvoa
+{Miami dolphins|team} {defensive|dvoa_type} dvoa

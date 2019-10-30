@@ -5,5 +5,6 @@ from blitz.root import app
 
 import blitz.greeting
 import blitz.weather
+import blitz.nfl_intents
 
 __all__ = ['app']
