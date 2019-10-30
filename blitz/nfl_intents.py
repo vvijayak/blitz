@@ -32,12 +32,32 @@ def get_depth_chart(request, responder):
                     position_to_players[position].append(player)
 
     position_entity = [x for x in request.entities if x['type'] == 'position']
-    position = position_entity[0]['value'][0]['cname']
+    if position_entity:
+        position = position_entity[0]['value'][0]['cname']
+        players_at_position = position_to_players[position]
 
-    players_at_position = position_to_players[position]
+        responder.reply(f"Here is the {position} depth chart for the {canonical_team_name}:")
+        responder.reply(", ".join(players_at_position))
+    else:
+        responder.frame['position_to_players_dict'] = position_to_players
+        responder.frame['requested_team'] = canonical_team_name
+        responder.reply(f"Which position would you like to see for the {canonical_team_name}?")
 
-    responder.reply(f"Here is the {position} depth chart for the {canonical_team_name}:")
-    responder.reply(", ".join(players_at_position))
+
+@app.handle(domain='nfl', intent='specify_position')
+def specify_position(request, responder):
+    position_entity = [x for x in request.entities if x['type'] == 'position']
+    if position_entity:
+        position_to_players = responder.frame['position_to_players_dict']
+        canonical_team_name = responder.frame['requested_team']
+
+        position = position_entity[0]['value'][0]['cname']
+        players_at_position = position_to_players[position]
+
+        responder.reply(f"Here is the {position} depth chart for the {canonical_team_name}:")
+        responder.reply(", ".join(players_at_position))
+    else:
+        responder.reply("Sorry, I didn't catch that. Which position would you like to see?")
 
 
 @app.handle(domain='nfl', intent='get_dvoa')

@@ -1,0 +1,20 @@
+{strong safety|position}
+{right tackle|position}
+{tight end|position}
+{tackle|position}
+{RB|position}
+{C|position}
+{right guard|position}
+{TE|position}
+{quarterback|position}
+{left tackle|position}
+{FB|position}
+{free safety|position}
+{receiver|position}
+{wide receiver|position}
+{center|position}
+{back|position}
+{LT|position}
+{defensive back|position}
+{defensive end|position}
+{RT|position}
