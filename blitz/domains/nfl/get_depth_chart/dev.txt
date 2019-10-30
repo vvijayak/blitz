@@ -1,10 +1,10 @@
-show me the roster for the {Saints|team}
-{Pittsburgh|team} depth chart
-show roster for {Minnesota|team}
-show the {bengals|team} roster
-roster for {Indy|team}
-{Detroit|team} depth chart
-show me the players on {Jets|team}
-roster for {Chicago|team}
-show me the depth chart for {Carolina Panthers|team}
-depth chart for {Green bay packers|team}
+depth chart for {Baltimore|team}
+get me the depth chart for {Cleveland|team}
+show {Niners|team} {linebacker|position} depth chart
+show {Green bay|team} roster
+show me the {halfback|position} on {Dallas Cowboys|team}
+what players are on {Los angeles chargers|team}
+get me the depth chart for {Panthers|team}
+{Baltimore|team} depth chart
+show me the depth chart for {Carolina|team}
+show {Buffalo|team} {free safety|position}

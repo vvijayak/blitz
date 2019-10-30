@@ -26,8 +26,8 @@ class Team:
             self.depth_chart_defense = f"{team_json['domain']}/team/depth-chart#scroll-defense"
             self.depth_chart_offense = f"{team_json['domain']}/team/depth-chart#scroll-offense"
             self.depth_chart_special = f"{team_json['domain']}/team/depth-chart#scroll-specialteams"
-            self.injury_report = f"{team_json['domain']}/team/depth-chart#scroll-specialteams"
-            self.news = f"{team_json['domain']}/team/injury-report/"
+            self.injury_report = f"{team_json['domain']}/team/injury-report/"
+            self.news = f"{team_json['domain']}/news/"
             self.stadium_name = team_json['stadium']['name']
             self.stadium_zip_code = team_json['stadium']['zip_code']
             self.transactions = f"{team_json['domain']}team/transactions/"

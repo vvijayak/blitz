@@ -1,100 +1,100 @@
-get me the depth chart for {Texans|team}
-roster for {Patriots|team}
-show {Tampa|team} roster
-show me the players on {Houston texans|team}
-depth chart for {Buffalo Bills|team}
-depth chart for {Bills|team}
-show me the players on {Denver|team}
-what players are on {Nola|team}
-{New England|team} depth chart
-roster for the {saints|team}
-show roster for {bucs|team}
-{Panthers|team} roster
-{Denver Broncos|team} roster
-show me the players on {Los angeles rams|team}
-show {Jacksonville|team} depth chart
-{Cinci|team} roster
-what is the roster for the {Philadelphia Eagles|team}
-show {Oakland|team} roster
-show me the players on {Los Angeles Rams|team}
-{Philly|team} depth chart
-get me the roster for {Cards|team}
-get me the roster for {Tennessee|team}
-show the {Ravens|team} roster
-what is the roster for the {titans|team}
-what is the depth chart for the {Denver broncos|team}
-what is the roster for the {Green bay packers|team}
-show me the depth chart for {New England|team}
-show {chargers|team} roster
-{Kansas City|team} roster
-{Broncos|team} depth chart
-what players are on {Pittsburgh|team}
-the {Philadelphia Eagles|team} roster
-the {packs|team} roster
-show me the depth chart for {Cinci|team}
-what is the depth chart for {New york giants|team}
-depth chart for {Los Angeles Chargers|team}
-depth chart for {Jacksonville|team}
-show roster for {Baltimore|team}
-the {New orleans saints|team} roster
-depth chart for {Miami|team}
-{Los angeles chargers|team} depth chart
-get me the roster for {Falcons|team}
-get me the roster for {Chicago|team}
-what is the roster for {New Orleans Saints|team}
-what is the depth chart for {Cleveland|team}
-what players are on {packers|team}
-show {Oakland|team} depth chart
-show {Tennessee titans|team} depth chart
-the {Giants|team} depth chart
-show depth chart for the {Philadelphia eagles|team}
-depth chart for the {texans|team}
-show me the depth chart for {Baltimore|team}
-roster for the {Panthers|team}
-show me the depth chart for {Green Bay|team}
-show roster for {Dallas|team}
-{Los Angeles Rams|team} roster
-show me the players on {Detroit|team}
-get me the depth chart for {Atlanta|team}
+show {Pittsburgh|team} {left guard|position}
+depth chart for {Baltimore|team}
+get me the depth chart for {New york giants|team}
+show me the depth chart for {Minnesota|team}
+show depth chart for {falcons|team}
+{cowboys|team} depth chart
+what is the roster for {Cleveland|team}
+what {free safety|position} are on the {Broncos|team}
 depth chart for {Washington|team}
-get me the roster for the {New york jets|team}
-{Tampa bay|team} depth chart
-show me the players on the {Redskins|team}
-show me the depth chart for {Cincinnati|team}
-show the {Los Angeles Chargers|team} depth chart
-what is the roster for {Arizona|team}
-show depth chart for the {jags|team}
-depth chart for {Tampa Bay Buccaneers|team}
-get me the roster for {New York Jets|team}
-depth chart for {Pittsburgh|team}
-show me the players on {Green Bay|team}
-show me the players on {Buffalo|team}
-get me the roster for the {saints|team}
-get me the depth chart for the {titans|team}
-{Pittsburgh|team} roster
-what is the depth chart for {Cinci|team}
-show {Tennessee|team} roster
-roster for {Seattle|team}
-what is the depth chart for {Broncos|team}
-what is the depth chart for the {panthers|team}
-show me the roster for the {Ravens|team}
-get me the depth chart for the {Dolphins|team}
-roster for the {cowboys|team}
-show {San Francisco|team} depth chart
-{Detroit|team} roster
-show me the roster for the {Packers|team}
-show me the players on {colts|team}
-show roster for {Pittsburgh Steelers|team}
-show me the roster for {Washington|team}
-roster for {New york jets|team}
-show roster for {Kansas City|team}
-show {New england|team} depth chart
-show {NOLA|team} roster
-what is the depth chart for {New york jets|team}
-the {Dallas Cowboys|team} depth chart
-show {Lions|team} depth chart
-show {KC|team} roster
-get me the depth chart for the {Eagles|team}
-show me the players on the {Atlanta Falcons|team}
-show {New york giants|team} depth chart
-what is the roster for {Houston Texans|team}
+show me the depth chart for the {Los Angeles Chargers|team}
+show me the roster for {Jaguars|team}
+show {Jacksonville|team} {free safety|position}
+show roster for {New york jets|team}
+show {Washington redskins|team} roster
+depth chart for {patriots|team}
+{safety|position} for {New York Giants|team}
+get me the depth chart for the {Titans|team}
+{Steelers|team} {right end|position}
+show {defensive end|position} for {Pats|team}
+get me the depth chart for the {Oakland raiders|team}
+show me the {safety|position} for {Tennessee titans|team}
+get me the {right tackle|position} for the {patriots|team}
+get me the roster for the {New York Jets|team}
+{Giants|team} {tight end|position}
+show {bengals|team} depth chart
+show me the roster for {phins|team}
+show {Ravens|team} {strong safety|position} depth chart
+depth chart for {Los angeles rams|team}
+show me the players on {Buffalo bills|team}
+depth chart for the {Carolina Panthers|team}
+show me the {left guard|position} for {Cleveland|team}
+{Dallas Cowboys|team} {defensive back|position}
+roster for {Cinci|team}
+roster for {Arizona|team}
+show me the depth chart for {Dallas|team}
+show me the {quarterback|position} on {Jacksonville|team}
+{Kansas City|team} {running back|position}
+show {guard|position} for {Miami|team}
+roster for {NOLA|team}
+what is the roster for {Cinci|team}
+what {receiver|position} are on {Denver|team}
+what is the roster for the {Patriots|team}
+{Pittsburgh|team} {right guard|position}
+roster for {Washington|team}
+show me the {linebacker|position} depth chart for the {Chicago Bears|team}
+{receiver|position} for the {Broncos|team}
+what is the {right guard|position} depth chart for {Pittsburgh|team}
+show depth chart for {Pittsburgh|team}
+what {halfback|position} are on {Chicago|team}
+{guard|position} for {Bills|team}
+what are the {strong safety|position} for {Tennessee Titans|team}
+get me the {linebacker|position} for {Washington Redskins|team}
+show me the {back|position} for {New york jets|team}
+show me the players on {Chicago|team}
+depth chart for {Houston|team}
+show me the roster for {Indy|team}
+{tight end|position} depth chart for {Raiders|team}
+show {New England|team} depth chart
+roster for {New england|team}
+what is the roster for {Buffalo|team}
+what {strong safety|position} are on {Tennessee|team}
+show {Houston Texans|team} roster
+{left guard|position} for {Jacksonville|team}
+what is the {right guard|position} depth chart for {Falcons|team}
+{defensive back|position} depth chart for the {Washington Redskins|team}
+{patriots|team} roster
+roster for {Detroit|team}
+{center|position} for {bills|team}
+show roster for {Rams|team}
+show me the depth chart for {Los angeles chargers|team}
+{Kansas city|team} depth chart
+show me the {right end|position} depth chart for the {Rams|team}
+show {halfback|position} depth chart for the {Kansas City Chiefs|team}
+show the {New york giants|team} {right tackle|position}
+the {seahawks|team} roster
+show me the {defensive back|position} depth chart for {Kc|team}
+show {tackle|position} depth chart for the {giants|team}
+{Arizona|team} roster
+show me the roster for the {patriots|team}
+{quarterback|position} depth chart for {Philly|team}
+get me the roster for the {Broncos|team}
+show me the depth chart for {Tampa bay|team}
+get me the roster for the {Pats|team}
+{KC|team} {receiver|position} depth chart
+what is the depth chart for the {Cincinnati bengals|team}
+show me the players on the {Chicago Bears|team}
+show me the depth chart for {New orleans saints|team}
+what {cornerback|position} are on {Chicago|team}
+show roster for {Green bay|team}
+get me the {halfback|position} for {Buffalo|team}
+show me the {tight end|position} depth chart for the {Cleveland Browns|team}
+what is the depth chart for {Carolina|team}
+show the {Ravens|team} {guard|position}
+show the {Broncos|team} depth chart
+{KC|team} roster
+depth chart for the {hawks|team}
+show roster for {Detroit|team}
+show {Chicago|team} {halfback|position} depth chart
+show {New York Jets|team} roster
+show {Miami|team} roster

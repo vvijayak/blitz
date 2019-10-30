@@ -1,0 +1,25 @@
+wide receiver
+receiver
+WR
+left tackle
+tackle
+right tackle
+LT
+T
+RT
+left guard
+guard
+right guard
+G
+LG
+RG
+center
+qb
+QB
+quarterback
+tight end
+TE
+running back
+halfback
+back
+RB

@@ -1,0 +1,83 @@
+{
+  "entities": [
+    {
+      "whitelist": [
+        "receiver",
+        "wide receiver",
+        "WR"
+      ],
+      "cname": "WR"
+    },
+    {
+      "whitelist": [
+        "left tackle",
+        "tackle",
+        "LT"
+      ],
+      "cname": "LT"
+    },
+    {
+      "whitelist": [
+        "left guard",
+        "guard",
+        "LG"
+      ],
+      "cname": "LG"
+    },
+    {
+      "whitelist": [
+        "center",
+        "C"
+      ],
+      "cname": "C"
+    },
+    {
+      "whitelist": [
+        "right guard",
+        "guard",
+        "RG"
+      ],
+      "cname": "RG"
+    },
+    {
+      "whitelist": [
+        "right tackle",
+        "tackle",
+        "RT"
+      ],
+      "cname": "RT"
+    },
+    {
+      "whitelist": [
+        "tight end",
+        "TE"
+      ],
+      "cname": "TE"
+    },
+    {
+      "whitelist": [
+        "quarterback",
+        "quarter back",
+        "QB"
+      ],
+      "cname": "QB"
+    },
+    {
+      "whitelist": [
+        "running back",
+        "halfback",
+        "tailback",
+        "RB"
+      ],
+      "cname": "RB"
+    },
+    {
+      "whitelist": [
+        "fullback",
+        "full back",
+        "FB"
+      ],
+      "cname": "FB"
+    }
+  ]
+}
