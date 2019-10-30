@@ -282,6 +282,15 @@
     },
     {
       "whitelist": [
+        "houston",
+        "texans",
+        "NRG",
+        "NRG stadium"
+      ],
+      "cname": "Texans"
+    },
+    {
+      "whitelist": [
         "nissan",
         "nissan stadium",
         "titans",
